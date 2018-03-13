@@ -1,2 +1,2 @@
 # pwsh-azure-cli
-Powershell + Azure cli
+Powershell + Azure CLI
